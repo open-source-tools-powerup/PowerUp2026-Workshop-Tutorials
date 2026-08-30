@@ -10,11 +10,10 @@ From the command line terminal please run the following commands:
 
 1. Clone this repository
 ```
-git clone https://github.com/open-source-tools-powerup/PowerUp2026-Open-Source-Tools.git
+git clone https://github.com/open-source-tools-powerup/PowerUp2026-Workshop-Tutorials.git
 ```
 2. Navigate into the cloned directory and create a python environment
 ```
-cd PowerUp2026-Open-Source-Tools
 python3.14 -m venv .venv
 ```
 3. Activate your python environment
