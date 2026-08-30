@@ -1,0 +1,17 @@
+
+# HERMESS
+hermess
+
+# STING
+sting-py
+cmas
+control
+
+# Pyoframe
+pyoframe[highs]
+altair[save]
+pandas
+
+# Jupyter
+jupyter
+ipykernel

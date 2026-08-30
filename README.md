@@ -1,1 +1,27 @@
-# PowerUp2026-Open-Source-Tools
+# PowerUp 2026 Workshop
+
+The following code is for the 2026 PowerUp workshop on open source tools for power and energy systems.
+
+## Installation
+
+Prerequisites: We assume that you have install `git` and `python3.14` on your machine. STING requires an installation of `IPOPT` on your machine as well. Please refer to the following instructions for installing `IPOPT` (https://coin-or.github.io/Ipopt/INSTALL.html).
+
+From the command line terminal please run the following commands:
+
+1. Clone this repository
+```
+git clone https://github.com/open-source-tools-powerup/PowerUp2026-Open-Source-Tools.git
+```
+2. Navigate into the cloned directory and create a python environment
+```
+cd PowerUp2026-Open-Source-Tools
+python3.14 -m venv .venv
+```
+3. Activate your python environment
+```
+source .venv/bin/activate
+```
+4. Install all package dependencies
+```
+pip install -r requirements.txt
+```
