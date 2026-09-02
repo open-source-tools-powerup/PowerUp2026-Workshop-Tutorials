@@ -12,15 +12,19 @@ From the command line terminal please run the following commands:
 ```
 git clone https://github.com/open-source-tools-powerup/PowerUp2026-Workshop-Tutorials.git
 ```
-2. Navigate into the cloned directory and create a python environment
+2. Go to the directory
+```
+cd PowerUp2026-Workshop-Tutorials
+```
+3. Create a python environment
 ```
 python3.14 -m venv .venv
 ```
-3. Activate your python environment
+4. Activate your python environment
 ```
 source .venv/bin/activate
 ```
-4. Install all package dependencies
+5. Install all package dependencies
 ```
 pip install -r requirements.txt
 ```
