@@ -49,7 +49,7 @@ def plot_results(dispatch_results, save_to="energy_mix.png"):
 
     if dispatch_results is None:
         # Make sure everything is installed properly
-        m = pf.Model()
+        m = pf.Model("highs")
         m.attr.Silent = True
         m.X = pf.Variable(lb=1, ub=2)
         m.optimize()
