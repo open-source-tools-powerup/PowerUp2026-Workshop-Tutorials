@@ -97,7 +97,7 @@ pycparser==3.0
 pydantic==2.13.5
 pydantic_core==2.46.5
 Pygments==2.21.0
-pyoframe==1.9.0
+pyoframe>=1.9.0
 pyomo==6.10.1
 pyoptinterface==0.6.1
 pyparsing==3.3.2
