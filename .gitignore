@@ -6,3 +6,10 @@ __pycache__
 
 STING/outputs/*
 STING/sting_log.txt
+
+# HERMESS notebooks write these next to themselves when run locally
+HERMESS/systems/
+HERMESS/*.csv
+HERMESS/*.pkl
+HERMESS/jit_tmp*
+HERMESS/tmp_casadi_compiler_shell*
