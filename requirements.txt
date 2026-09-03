@@ -30,7 +30,7 @@ fastjsonschema==2.22.2
 fonttools==4.64.0
 fqdn==1.5.1
 h11==0.16.0
-hermess==1.7.0
+hermess>=1.7.2
 highsbox==1.13.1
 highspy==1.15.1
 httpcore==1.0.9
