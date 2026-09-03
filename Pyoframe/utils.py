@@ -31,8 +31,9 @@ def plot_results(dispatch_results, save_to="energy_mix.png"):
         m = pf.Model("highs")
         m.attr.Silent = True
         m.X = pf.Variable(lb=1, ub=2)
+        m.minimize = m.X
         m.optimize()
-        assert m.X.solution == 1, "Something went wrong!"
+        assert round(m.X.solution, 8) == 1, "Something went wrong!"
 
         print("No results to plot.")
         return
