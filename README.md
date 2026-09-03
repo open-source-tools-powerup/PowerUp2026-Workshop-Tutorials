@@ -28,3 +28,4 @@ source .venv/bin/activate
 ```
 pip install -r requirements.txt
 ```
+If you get an error, make sure you are using Python 3.14. You can check your python version with `python --version`.
