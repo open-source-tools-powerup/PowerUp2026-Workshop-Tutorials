@@ -4,7 +4,7 @@ The following code is for the 2026 PowerUp workshop on open source tools for pow
 
 ## Installation
 
-Prerequisites: We assume that you have install `git` and `python3.14` on your machine. STING requires an installation of `IPOPT` on your machine as well. Please refer to the following instructions for installing `IPOPT` (https://coin-or.github.io/Ipopt/INSTALL.html).
+Prerequisites: We assume that you have installed `git` and `python3.14` on your machine. STING requires an installation of `IPOPT` on your machine as well. Please refer to the following instructions for installing `IPOPT` (https://coin-or.github.io/Ipopt/INSTALL.html).
 
 From the command line terminal please run the following commands:
 
@@ -28,4 +28,6 @@ source .venv/bin/activate
 ```
 pip install -r requirements.txt
 ```
-If you get an error, make sure you are using Python 3.14. You can check your python version with `python --version`.
+
+Troubleshooting: If you encounter any difficulties installing please contact us at asedlak@ucsd.edu and psernatorre@ucsd.edu.
+You may also want to double check that you are using Python 3.14 (run `python --version` to check).
