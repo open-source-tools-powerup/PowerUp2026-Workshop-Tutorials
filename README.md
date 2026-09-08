@@ -31,3 +31,11 @@ pip install -r requirements.txt
 
 Troubleshooting: If you encounter any difficulties installing please contact us at asedlak@ucsd.edu and psernatorre@ucsd.edu.
 You may also want to double check that you are using Python 3.14 (run `python --version` to check).
+
+## About
+
+For more information about the workshop session please refer to our [conference website](https://open-source-tools-powerup.github.io). More information about each of the featured software packages can be found via their respective GitHub pages.
+- [HERMESS](https://github.com/maitrayadesai/hermess)
+- [STING](https://github.com/REAM-lab/STING)
+- [Pyoframe](https://github.com/Bravos-Power/pyoframe)
+- [Daline](https://github.com/JarvisETHZ/Daline)
