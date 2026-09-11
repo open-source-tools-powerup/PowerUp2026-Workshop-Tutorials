@@ -39,3 +39,12 @@ For more information about the workshop session please refer to our [conference 
 - [STING](https://github.com/REAM-lab/STING)
 - [Pyoframe](https://github.com/Bravos-Power/pyoframe)
 - [Daline](https://github.com/JarvisETHZ/Daline)
+
+## Colab Notebooks
+We encourage attendees to download all software locally. If you are facing technical difficulties we have provided google Colab notebooks which you may use as well.
+
+- [Pyoframe](https://colab.research.google.com/github/open-source-tools-powerup/PowerUp2026-Workshop-Tutorials/blob/main/Pyoframe/notebook.ipynb)
+- [STING](https://drive.google.com/file/d/1Ke_7JohcghGckq48QP2JDgVNMvPKusIV/view?usp=sharing)
+- HERMESS
+  - [Notebook 1](https://colab.research.google.com/github/open-source-tools-powerup/PowerUp2026-Workshop-Tutorials/blob/main/HERMESS/01_standard_dynamics.ipynb)
+  - [Notebook 2](https://colab.research.google.com/github/open-source-tools-powerup/PowerUp2026-Workshop-Tutorials/blob/main/HERMESS/02_advanced_stability.ipynb)
