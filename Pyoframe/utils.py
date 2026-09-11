@@ -1,4 +1,7 @@
 import pyoframe as pf
+from pathlib import Path
+
+INPUT_DIR = Path("input_data")
 
 def plot_results(dispatch_results, save_to="energy_mix.png"):
     """Plot the energy mix of the dispatch results.
